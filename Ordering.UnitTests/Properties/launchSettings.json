@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ordering.UnitTests": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

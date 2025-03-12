@@ -1,0 +1,12 @@
+﻿global using Asp.Versioning.Conventions;
+global using System.Runtime.Serialization;
+global using FluentValidation;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using eShop.EventBus.Abstractions;
+global using eShop.EventBus.Events;
+global using eShop.IntegrationEventLogEF.Services;
+global using eShop.Ordering.API.Application.IntegrationEvents;
+global using eShop.Ordering.API.Extensions;
+global using eShop.ServiceDefaults;

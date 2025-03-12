@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ordering.FunctionalTests.": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
